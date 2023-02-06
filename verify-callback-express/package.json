@@ -5,7 +5,7 @@
   "main": "verify-callback-express.js",
   "dependencies": {
     "got": "^11.8.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "express": "^4.17.1",
     "ngrok": "^3.3.0",
     "dotenv": "^8.2.0",
